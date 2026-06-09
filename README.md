@@ -50,8 +50,6 @@
 
 ## 📈 Stats & Contact
 
-<p align="left">
-  <a href="https://github.com/seungdam">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=seungdam&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="seungdam's github stats" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seungdam&theme=tokyonight" alt="seungdam's github stats" />
 </p>
