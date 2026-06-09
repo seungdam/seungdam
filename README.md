@@ -71,7 +71,7 @@
 
 <br/>
 
-<h2 align="center">📈 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <!-- 외부 연동 서버 우회 및 100% 작동 가능한 순정 요약형 스탯 카드로 보정 -->
 <p align="center">
