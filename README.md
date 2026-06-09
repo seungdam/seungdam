@@ -9,7 +9,7 @@
 
 <br/>
 
-<h2 align="center">🎯 Interests</h2>
+<h2 align="center">Interests</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/High%20Performance-B3C5FF?style=for-the-badge&logoColor=white"/>
@@ -20,7 +20,7 @@
 
 <br/>
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
